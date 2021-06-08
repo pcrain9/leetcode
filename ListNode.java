@@ -2,7 +2,9 @@ import java.util.Random;
 import java.util.HashMap;
 
 /* Definition for singly-linked list.
-Inspiration for creating linked list goes to: https://www.geeksforgeeks.org/implementing-a-linked-list-in-java-using-class/*/
+Inspiration for creating linked list goes to: https://www.geeksforgeeks.org/implementing-a-linked-list-in-java-using-class/
+Link to problem: https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3660/
+*/
 public class ListNode {
     ListNode head;    
     int key;  
